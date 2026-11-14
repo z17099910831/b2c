@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LinguaBridge AI</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_interpreter">Live 同传</string>
+    <string name="nav_transcription">记录与翻译</string>
+    <string name="nav_summary">AI 总结</string>
+    <string name="nav_library">历史库</string>
+    <string name="cd_app_logo">LinguaBridge AI emblem</string>
+    <string name="cd_mic_button">Microphone recording control</string>
+    <string name="cd_swap_languages">Swap source and target languages</string>
+    <string name="cd_model_manager">Open offline model manager</string>
+    <string name="cd_export_txt">Export transcript as plain text</string>
+    <string name="cd_export_pdf">Export transcript as PDF</string>
+    <string name="cd_copy_text">Copy transcript to clipboard</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "LinguaBridge AI",
+  "description": "Offline-first multilingual voice interpreter for Tagalog, Cebuano, English, and Simplified Chinese with local audio recording, Room persistence, and extractive AI summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
